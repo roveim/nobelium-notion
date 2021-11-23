@@ -4,7 +4,7 @@ const BLOG = {
   email: 'im@rove.im',
   link: 'https://roveim.vercel.app',
   description: '解构自己，探究世界  /  Internet Product  /  Photography / Cat  / Time is the answer.',
-  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '##f7f7f7', // use hex value, don't forget '#' e.g #fffefc
